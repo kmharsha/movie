@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kmharsha/movie/static/css/main.288379ee.css",
+    "main.js": "/kmharsha/movie/static/js/main.57b5638e.js",
+    "static/js/453.6f2e229a.chunk.js": "/kmharsha/movie/static/js/453.6f2e229a.chunk.js",
+    "static/media/movie.jpg": "/kmharsha/movie/static/media/movie.52538bd8ec1e26ef2595.jpg",
+    "index.html": "/kmharsha/movie/index.html",
+    "main.288379ee.css.map": "/kmharsha/movie/static/css/main.288379ee.css.map",
+    "main.57b5638e.js.map": "/kmharsha/movie/static/js/main.57b5638e.js.map",
+    "453.6f2e229a.chunk.js.map": "/kmharsha/movie/static/js/453.6f2e229a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288379ee.css",
+    "static/js/main.57b5638e.js"
+  ]
+}
